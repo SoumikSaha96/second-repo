@@ -1,0 +1,10 @@
+p{
+    color:hotpink;
+    border: solid brown 5px;
+    border-radius: 10px;
+}
+h1{
+    color: aquamarine;
+    border:darkcyan 10px solid ;
+    border-radius: 10px;
+}
